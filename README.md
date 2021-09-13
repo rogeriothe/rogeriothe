@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [BBLearn integration](https://github.com/rogeriothe/bblearn-api)
 
-- 🌱 I’m currently learning **node.js, mongodb, postgres and docker**
+- 🌱 I’m currently learning **python, django, postgres and docker**
 
-- 💬 Ask me about **c#, python.**
+- 💬 Ask me about **c#, python and SQL.**
 
 - 📫 How to reach me **rogeriothe@gmail.com**
 
